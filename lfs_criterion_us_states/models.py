@@ -3,7 +3,7 @@ import ast
 
 # django
 from django.db import models
-from django.contrib.localflavor.us.us_states import US_STATES
+from localflavor.us.us_states import US_STATES
 
 # lfs imports
 import lfs.customer.utils
