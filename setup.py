@@ -27,6 +27,6 @@ setup(name='lfs-criterion-us-states',
       zip_safe=False,
       dependency_links=["http://pypi.iqpp.de/"],
       install_requires=[
-        'setuptools',
+          'setuptools',
       ],
-)
+      )
