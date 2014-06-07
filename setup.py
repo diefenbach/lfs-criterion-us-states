@@ -8,7 +8,7 @@ README = open(os.path.join(here, 'README.txt')).read()
 
 setup(name='lfs-criterion-us-states',
       version=version,
-      description='',
+      description='A criterion for LFS which provides a selection of US states.',
       long_description=README,
       classifiers=[
           'Environment :: Web Environment',
